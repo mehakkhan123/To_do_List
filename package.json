@@ -1,6 +1,6 @@
 {
   "name": "mehakkhan_todo_list",
-  "version": "2.1.1",
+  "version": "3.2.2",
   "description": "Todo list using TypeScript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
